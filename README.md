@@ -46,3 +46,8 @@ One API key and one non-expiring pay-as-you-go credit wallet (`CNY 1 = 1,000 exa
 ## License
 
 MIT
+
+## Live Status & Integration Guides
+
+- **Live Model Availability & Verification**: [https://api.star1age.cn/status](https://api.star1age.cn/status) — 15-minute automated SSE heartbeat across 18 core models + daily deep verification (system prompt retention, prompt caching, reasoning effort ladder, and tool calling). Public JSON: `https://api.star1age.cn/api/portal/public-api/model-health`.
+- **Client Integration Guides**: [https://api.star1age.cn/guides](https://api.star1age.cn/guides) (Cherry Studio, Cursor & Cline, OpenRouter alternative, pricing & anti-downgrade verification).
